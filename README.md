@@ -6,7 +6,7 @@ ke ojg2qj-
   -2 j2
  
   
-  
+  slate gray
   -9-4j 2
   -j24 
   -9j 42
