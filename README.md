@@ -9,7 +9,7 @@ ke ojg2qj-
   
   -9-4j 2
   -j24 
-  -9j 42
+  -9j 42 here we are
   
   -0j23 
   
